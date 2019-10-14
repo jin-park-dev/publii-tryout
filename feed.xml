@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tasty Food And Co</title>
-    <link href="https://github.com/k-oneGene/publii-tryout.git/feed.xml" rel="self" />
-    <link href="https://github.com/k-oneGene/publii-tryout.git" />
-    <updated>2019-10-14T12:52:29+01:00</updated>
+    <link href="https://k-onegene.github.io/publii-tryout/feed.xml" rel="self" />
+    <link href="https://k-onegene.github.io/publii-tryout" />
+    <updated>2019-10-14T13:03:03+01:00</updated>
     <author>
         <name>Jin Park</name>
     </author>
-    <id>https://github.com/k-oneGene/publii-tryout.git</id>
+    <id>https://k-onegene.github.io/publii-tryout</id>
 
     <entry>
         <title>Hey my second food post</title>
         <author>
             <name>Jin Park</name>
         </author>
-        <link href="https://github.com/k-oneGene/publii-tryout.git/hey-my-second-food-post.html"/>
-        <id>https://github.com/k-oneGene/publii-tryout.git/hey-my-second-food-post.html</id>
+        <link href="https://k-onegene.github.io/publii-tryout/hey-my-second-food-post.html"/>
+        <id>https://k-onegene.github.io/publii-tryout/hey-my-second-food-post.html</id>
 
         <updated>2019-10-14T12:26:15+01:00</updated>
             <summary>
@@ -41,8 +41,8 @@
         <author>
             <name>Jin Park</name>
         </author>
-        <link href="https://github.com/k-oneGene/publii-tryout.git/yay-my-first-post.html"/>
-        <id>https://github.com/k-oneGene/publii-tryout.git/yay-my-first-post.html</id>
+        <link href="https://k-onegene.github.io/publii-tryout/yay-my-first-post.html"/>
+        <id>https://k-onegene.github.io/publii-tryout/yay-my-first-post.html</id>
 
         <updated>2019-10-14T12:24:47+01:00</updated>
             <summary>
